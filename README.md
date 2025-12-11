@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm See Marn 👋
+
+🎓 Master’s student in Data Science  
+
+## 🚀 Academic Projects
+- Data Mining Projects   
+- Master’s Thesis: Job Market Skills Extraction (NER + Clustering)
+
+## 🚀 DataCamp Projects
+- Analyzing Students' Mental Health using SQL   
+- Classifying Email using Llama  
 
 <!--
 **seemarn/seemarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
