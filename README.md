@@ -4,7 +4,7 @@
 
 ## 🚀 Academic Projects
 - Data Mining Projects   
-- Master’s Thesis: Analyzing Malaysia Job Market through Skills Extraction from Online Job Postings
+- Master’s Thesis: Analyzing Malaysia Job Market through Skills Extraction from Online Job Postings (NLP + Clustering)
 
 ## 🚀 DataCamp Projects
 - Analyzing Students' Mental Health using SQL   
