@@ -6,10 +6,14 @@
 
 ## 🚀 Academic Projects
 - Data Mining Projects
+  
   https://github.com/seemarn/datamining_projects
 - Master’s Research Project: Analyzing Malaysia Job Market through Skills Extraction from Online Job Postings (NLP + Clustering)
+  
   https://github.com/seemarn/researchproject_code
+  
   https://github.com/seemarn/researchproject_dashboard
+  
   https://github.com/seemarn/researchproject_system
 
 ## 🚀 DataCamp Projects
