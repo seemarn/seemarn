@@ -1,6 +1,7 @@
 ## Hi, I'm See Marn 👋
 
 🎓 Master’s student in Data Science in University of Malaya (UM)
+
 🎓 Graduated in Bachelor of Science (Industrial Mathematics) with Honours in University of Technology Malaysia (UTM)
 
 ## 🚀 Academic Projects
