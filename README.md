@@ -20,6 +20,7 @@
 https://github.com/seemarn/datacamp_projects
 - Analyzing Students' Mental Health using SQL   
 - Classifying Email using Llama
+- Ecommerce Analysis in Power BI
   
 
 <!--
