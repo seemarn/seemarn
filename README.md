@@ -4,7 +4,7 @@
 
 🎓 Graduated in Bachelor of Science (Industrial Mathematics) with Honours in University of Technology Malaysia (UTM)
 
-## 🚀 Academic Projects
+## 🚀 Data Science Academic Projects
 - Data Mining Projects
   
   https://github.com/seemarn/datamining_projects
@@ -15,8 +15,13 @@
   https://github.com/seemarn/researchproject_dashboard
   
   https://github.com/seemarn/researchproject_system
-- Group Projects
+- Group Projects *(in progress)*
+| Project Title | Description | Area of study & Tools | 
+|---|---|---|
+|Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition|---|---|
 
+## 🚀 SQL
+- https://github.com/seemarn/sql_8weekschallenge *(in progress)*
 
 ## 🚀 DataCamp Projects
 https://github.com/seemarn/datacamp_projects
