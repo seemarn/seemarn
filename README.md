@@ -18,7 +18,7 @@
 - Group Projects *(in progress)*
 | Project Title | Description | Area of study & Tools | 
 |---|---|---|
-|Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition|---|---|
+|Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition||R|
 
 ## 🚀 SQL
 - https://github.com/seemarn/sql_8weekschallenge *(in progress)*
