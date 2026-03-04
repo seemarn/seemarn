@@ -16,9 +16,11 @@
   
   https://github.com/seemarn/researchproject_system
 - Group Projects *(in progress)*
+
+
 | Project Title | Description | Area of study & Tools | 
 |---|---|---|
-|Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition|Model to predict turnover|R|
+| Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition | Model to predict turnover | R | 
 
 ## 🚀 SQL
 - https://github.com/seemarn/sql_8weekschallenge *(in progress)*
