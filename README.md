@@ -18,9 +18,9 @@
 - Group Projects *(in progress)*
 
 
-| Project Title | Description | Area of study & Tools | 
+| Project Title | Description | Area of study | Tools |
 |---|---|---|
-| Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition | Model to predict turnover | R | 
+| Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition | - To identify the factors of employee turnover within the organization. - To model the predictive model for employee turnover. - To evaluate the best model for employee turnover prediction | Data Cleaning, EDA, Data Modelling (Classification), Model Evaluation | R, Streamlit |
 
 ## 🚀 SQL
 - https://github.com/seemarn/sql_8weekschallenge *(in progress)*
