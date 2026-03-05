@@ -16,7 +16,6 @@
   https://github.com/seemarn/researchproject_system
   
 - Group Projects *(in progress)*
-## Group Projects
 
 | Project Title | Description | Techniques | Tools |
 |---|---|---|---|
