@@ -16,6 +16,8 @@
   https://github.com/seemarn/researchproject_system
   
 - Group Projects *(in progress)*
+## Projects
+
 | Project Title | Description | Techniques | Tools |
 |---|---|---|---|
 | Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition | Predict factors of employee attrition and compare different classification models for employee turnover prediction | Data Cleaning, EDA, Classification Modelling, Model Evaluation | R, Streamlit |
