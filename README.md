@@ -19,10 +19,10 @@
 
 | Project Title | Description | Techniques | Tools |
 |---|---|---|---|
-| Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition | Predict factors of employee attrition and compare different classification models for employee turnover prediction | Data Cleaning, EDA, Classification Modelling, Model Evaluation | R, Streamlit |
-| Proactive Customer Retention Strategies through Churn Classification in Telecom | Identify factors affecting telco customer churn and implement machine learning models for telco customer churn prediction | Data Cleaning, EDA, Classification Modelling, Model Evaluation | Python |
-| Machine Learning-Based Prediction in Credit Score Classification | Develop machine learning models that classify individuals into credit score categories (Good, Standard, or Poor) and estimate customers’ Bad Rate% for more detailed credit risk assessment | Data Cleaning, EDA, Classification & Regression Modelling, Model Evaluation | R |
-| [Optimizing Loan Approval Decisions with Machine Learning Models](https://github.com/keanteng/wqd7012-assignment-1) | Evaluate and compare the performance of different machine learning models for loan approval prediction | Data Cleaning, EDA, Classification Modelling, Model Evaluation | Python |
+| Predicting Employee Turnover: A Data Driven Approach to Reducing Attrition | Predict factors of employee attrition and compare different classification models for employee turnover prediction | Data Cleaning, EDA, Classification Modelling (Gradient Boosting, SVM, RF, Logistic Regression, XGBoost, KNN, DT), Model Evaluation | R, Streamlit |
+| Proactive Customer Retention Strategies through Churn Classification in Telecom | Identify factors affecting telco customer churn and implement machine learning models for telco customer churn prediction | Data Cleaning, EDA, Classification Modelling (KNN, SVM, Logistic Regression, DT, RF, Gradient Boosting, AdaBoost, Naive Bayes), Model Evaluation | Python |
+| Machine Learning-Based Prediction in Credit Score Classification | Develop machine learning models that classify individuals into credit score categories (Good, Standard, or Poor) and estimate customers’ Bad Rate% for more detailed credit risk assessment | Data Cleaning, EDA, Classification Modelling (Multinomial Logistic Regression, RF, XGBoost), Regression Modelling (Generalized Linear Model, XGBoost), Model Evaluation | R |
+| [Optimizing Loan Approval Decisions with Machine Learning Models](https://github.com/keanteng/wqd7012-assignment-1) | Evaluate and compare the performance of different machine learning models for loan approval prediction | Data Cleaning, EDA, Classification Modelling (Logistic Regression, DT, RF, SVM, GaussianNB), Model Evaluation | Python |
 
 ## 🚀 SQL
 - https://github.com/seemarn/sql_8weekschallenge *(in progress)*
